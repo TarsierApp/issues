@@ -23,12 +23,9 @@ A clear and concise description of what you expected to happen.
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
 
-**Tarsier:**
-- Version [e.g. 0.1.0]
-
-**Desktop (please complete the following information):**
- - OS: [e.g. macOS]
- - Version [e.g. 21]
+**Tarsier & Desktop (You can copy this information under Settings > About):**
+- Version [e.g. 0.1.0 (1.7.1)]
+ - Host: [e.g. darwin_x86_64 24.0.0]
 
 **Additional context**
 Add any other context about the problem here.
